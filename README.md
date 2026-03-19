@@ -38,12 +38,12 @@ simulation-based data generation
 
 ## 🔄 System Flow
 
-1.  Create Property\
-2.  Add Units under property\
-3.  Create Rate Plan\
-4.  Assign Rate Plan to Units\
-5.  Simulate Meter Readings\
-6.  Generate Monthly Billing\
+1.  Create Property
+2.  Add Units under property
+3.  Create Rate Plan
+4.  Assign Rate Plan to Units
+5.  Simulate Meter Readings
+6.  Generate Monthly Billing
 7.  View Dashboard Analytics
 
 ------------------------------------------------------------------------
