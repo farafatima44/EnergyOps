@@ -190,7 +190,7 @@ Dashboard available at: http://localhost:5173
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
-Fara Fatima
+Fara Fatima\
 EnergyOps Project\
 Full‑Stack Energy Monitoring & Billing Demo
 
